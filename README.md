@@ -3,8 +3,6 @@ Menu Jail / RageUI v2 / Full Configurable
 
 #### Discord : https://discord.gg/DKTDVgK8mR
 
-#### Preview : SOON
-
 - Configuration hyper facile
 - Système de reJail si déconnexion
 - Anti Mort
