@@ -9,9 +9,9 @@ Config = {
         },
     },
     Webhook = {
-        Jail = "https://discord.com/api/webhooks/1010810146089357313/tWoPcFdVHscpaFyfYCyM69uLurYQBtngN2q2IYieYzCUQVg0rzSj4SPpmyyj7drQvsds", --Webhook pour le jail
-        UnJail = "https://discord.com/api/webhooks/1010810146089357313/tWoPcFdVHscpaFyfYCyM69uLurYQBtngN2q2IYieYzCUQVg0rzSj4SPpmyyj7drQvsds", --Webhook pour le unjail
-        JailOffline = "https://discord.com/api/webhooks/1010810146089357313/tWoPcFdVHscpaFyfYCyM69uLurYQBtngN2q2IYieYzCUQVg0rzSj4SPpmyyj7drQvsds", --Webhook pour le jail offline
+        Jail = "", --Webhook pour le jail
+        UnJail = "", --Webhook pour le unjail
+        JailOffline = "", --Webhook pour le jail offline
     },
     Tenue = {
         male = { --Tenue jail homme
