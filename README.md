@@ -12,8 +12,9 @@ Menu Jail / RageUI v2 / Full Configurable
 -/unjail id
 -/jailoffline license temps (raison)  
     
-###Le temps indiqué dans les commandes doit toujours être en minutes
-() = optionnel
+Le temps indiqué dans les commandes doit toujours être en minutes  
+() = optionnel  
+
 ## Screenshots
 
 Resmon  
