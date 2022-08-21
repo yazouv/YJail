@@ -5,8 +5,8 @@ Menu Jail / RageUI v2 / Full Configurable
 
 - Configuration hyper facile  
     - Endroit d'entrée de jail et de sortie modifiable
-    - Activation Safe Zone
-    - Webhook discord  
+    - Système de Safe Zone activable/désactivable
+    - Système de webhook discord  
 - Système de reJail si déconnexion
 - Anti Mort
 - Safe Zone (configurable)
