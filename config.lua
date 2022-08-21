@@ -1,5 +1,6 @@
 Config = {
     EnableSafeZone = true, --Defaut : true
+    ServerName = "YJail" --Defaut : YJail
     Position = {
         ["entrée"] = {
             { x = 1642.56, y = 2569.01, z = 45.55 }, --Position de l'endroit de jail
@@ -32,5 +33,3 @@ Config = {
         },
     },
 }
-
-Config.ServerName = "YJail"
