@@ -9,24 +9,22 @@ Menu Jail / RageUI v2 / Full Configurable
 - Système de reJail si déconnexion
 - Anti Mort
 - Safe Zone (configurable)
-- Commandes disponibles :
--/jail <id> <temps> (raison)
-
--/unjail <id>
-
--/jailoffline <license> <temps> (raison)
+- Commandes disponibles :  
+-/jail <id> <temps> (raison)  
+-/unjail <id>  
+-/jailoffline <license> <temps> (raison)  
     
 () = optionnel
 <> = obligatoire
 ## Screenshots
 
-Resmon
+Resmon  
 ![App Screenshot](https://i.imgur.com/YFhTSwM.png)
 
-Jail
+Jail  
 ![App Screenshot](https://i.imgur.com/zeHN4Ti.png)
 
-Webhook Discord (optionnel)
+Webhook Discord (optionnel)  
 ![App Screenshot](https://i.imgur.com/3lXsCDg.png)
 ![App Screenshot](https://i.imgur.com/Khy8FRE.png)
 ![App Screenshot](https://i.imgur.com/mavJIrP.png)
