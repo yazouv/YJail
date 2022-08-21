@@ -8,12 +8,12 @@ Menu Jail / RageUI v2 / Full Configurable
 - Anti Mort
 - Safe Zone (configurable)
 - Commandes disponibles :  
--/jail <id> <temps> (raison)  
--/unjail <id>  
--/jailoffline <license> <temps> (raison)  
+-/jail id temps (raison)  
+-/unjail id
+-/jailoffline license temps (raison)  
     
+###Le temps indiqué dans les commandes doit toujours être en minutes
 () = optionnel
-<> = obligatoire
 ## Screenshots
 
 Resmon  
