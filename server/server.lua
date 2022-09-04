@@ -53,20 +53,6 @@ AddEventHandler('YJail:updatetemps', function(NewTempsJail)
     end
 end)
 
-RegisterCommand('coords', function(source, args)
-    --GET COORDS OF PLAYER
-    local xPlayer = ESX.GetPlayerFromId(source)
-    local xPlayerCoords = GetEntityCoords(GetPlayerPed(source))
-    local xPlayerCoords = {
-        x = xPlayerCoords.x,
-        y = xPlayerCoords.y,
-        z = xPlayerCoords.z
-    }
-    print(xPlayerCoords.x)
-    print(xPlayerCoords.y)
-    print(xPlayerCoords.z)
-end)
-
 RegisterCommand('jail', function(source, args)
     if source == 0 then
         print("Vous ne pouvez pas jail dans la console")
