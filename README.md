@@ -1,5 +1,5 @@
 # YJail
-Menu Jail / RageUI v2 / Full Configurable
+Menu Jail / RageUI / Full Configurable
 
 #### Discord : https://discord.gg/DKTDVgK8mR
 
